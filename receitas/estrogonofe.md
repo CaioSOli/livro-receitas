@@ -2,7 +2,5 @@
 
 ### Ingredientes
 
-- [ ] ingredientes
-- [ ] sim
-- [ ] nao
-- [ ] 
+- estrogonofe de frango
+- pavê
